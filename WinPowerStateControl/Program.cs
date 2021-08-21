@@ -37,7 +37,8 @@ namespace WinPowerStateControl
                     var successfullyParsed = false;
 
                     Console.WriteLine("Select minutes before action (0 for instant)");
-                    successfullyParsed = long.TryParse(Console.ReadKey().KeyChar.ToString(), out _selectedDuration);
+                    successfullyParsed = long.TryParse(Console.ReadLine(), out _selectedDuration);
+                    _selectedDuration *= 60;
 
                     if (successfullyParsed)
                     {
