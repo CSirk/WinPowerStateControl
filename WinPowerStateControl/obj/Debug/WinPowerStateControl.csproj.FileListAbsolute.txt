@@ -1,0 +1,7 @@
+C:\Users\codas\Desktop\Github\WinPowerStateControl\WinPowerStateControl\bin\Debug\WinPowerStateControl.exe.config
+C:\Users\codas\Desktop\Github\WinPowerStateControl\WinPowerStateControl\bin\Debug\WinPowerStateControl.exe
+C:\Users\codas\Desktop\Github\WinPowerStateControl\WinPowerStateControl\bin\Debug\WinPowerStateControl.pdb
+C:\Users\codas\Desktop\Github\WinPowerStateControl\WinPowerStateControl\obj\Debug\WinPowerStateControl.csprojAssemblyReference.cache
+C:\Users\codas\Desktop\Github\WinPowerStateControl\WinPowerStateControl\obj\Debug\WinPowerStateControl.csproj.CoreCompileInputs.cache
+C:\Users\codas\Desktop\Github\WinPowerStateControl\WinPowerStateControl\obj\Debug\WinPowerStateControl.exe
+C:\Users\codas\Desktop\Github\WinPowerStateControl\WinPowerStateControl\obj\Debug\WinPowerStateControl.pdb
